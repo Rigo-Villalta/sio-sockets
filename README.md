@@ -8,6 +8,9 @@ PAra correrlos no se necsita más que la instalción estándar de Python, aunque
 Presentado por:
 
 Rigoberto Alcides Villalta – VV000329
+
 Alberto Joseph Mendoza Moreno - 200462
+
 David Guillermo Cardona Pérez – CP121738
+
 Devin Iván Mendoza Ortíz - MO190391
