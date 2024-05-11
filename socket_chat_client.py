@@ -33,8 +33,8 @@ class InterfazGrafica:
         self.cliente_socket = socket.socket(
             socket.AF_INET, socket.SOCK_STREAM
         )  # Inicializando socket con TCP e IPv4
-        ip_remota = "49.13.31.130"  # Dirección IP
-        puerto_remoto = 9857
+        ip_remota = "127.0.0.1"  # Dirección IP
+        puerto_remoto = 1111
         self.cliente_socket.connect(
             (ip_remota, puerto_remoto)
         )  # Conectar al servidor remoto
